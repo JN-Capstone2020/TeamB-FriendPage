@@ -2,6 +2,9 @@
 
 Instructions for each individual group (UX Designers, Software Developers, and Security Engineers) have been sent out via email.
 
+## Live Website Mock-Up At:
+https://jn-capstone2020.github.io/TeamB-FriendPage/
+
 ## Schedule
 - 7/26-7/27: Set Up Account & Tools
 - 7/27-7/30 by 12PM PST: UX Designers will work on design tasks
